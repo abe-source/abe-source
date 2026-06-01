@@ -12,7 +12,7 @@ If you have a process someone on your team does manually every day, let's fix th
 
 **Open to:**
 - Freelance projects involving Claude API, n8n, or agentic pipelines
-- Short consultations on CI/CD + AI integration
+- Consultations on CI/CD + AI integration
 - Long-term automation work for dev or ops teams
 
 ---
