@@ -17,7 +17,7 @@ Senior test automation engineer turned AI automation builder. I spend my days at
 
 ### Stack
 
-**Languages & Runtimes**
+**Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
