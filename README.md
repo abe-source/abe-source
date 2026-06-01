@@ -35,6 +35,3 @@ Senior test automation engineer turned AI automation builder. I spend my days at
 ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
----
-
-[abek.io](https://abek.io)
