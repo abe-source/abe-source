@@ -1,6 +1,8 @@
 ## Hi, I'm Arminas 👋
 
-Senior test automation engineer turned AI automation builder. I spend my days at Shift4 Payments keeping fintech systems from breaking, and my side hours building Claude workflows, MCP servers, and CI/CD pipelines that hold up in production.
+Senior test automation engineer turned AI automation builder. 5 years in test automation across software and hardware — API suites, UI automation, and physical payment terminal testing. Recently I've been going deep on AI, building workflows with Claude, n8n, and MCP that eliminate repetitive manual processes.
+
+If you have a process someone on your team does manually every day, let's fix that.
 
 **What I build:**
 - Claude Code agents and custom MCP servers
