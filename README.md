@@ -8,7 +8,7 @@ If you have a process someone on your team does manually every day, let's fix th
 - Claude Code agents and custom MCP servers
 - n8n automation workflows for business processes
 - AI-assisted CI/CD pipelines (code review agents, failure analysis)
-- AI-powered security tooling
+
 
 **Open to:**
 - Freelance projects involving Claude API, n8n, or agentic pipelines
